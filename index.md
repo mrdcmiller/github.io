@@ -21,7 +21,7 @@
 
 	<title>Impact Advertiser Links</title>
 </head>
-<body>
+<body style="font-family:Sans-serif">
 
 </body>
 </html>
