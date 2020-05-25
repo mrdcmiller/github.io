@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -19,10 +18,10 @@
 }
 </style>
 
-	<title>Impact Advertiser Links</title>
+<title>Impact Advertiser Links</title>
 </head>
 <body style="font-family:Sans-serif">
-
+<h1>Impact Advertier Links</h1>
 </body>
 <footer><p>timestamp 05/252/2020</p></footer>
 </html>
